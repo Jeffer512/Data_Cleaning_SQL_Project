@@ -1,2 +1,3 @@
 # Data_Cleaning_SQL_Project
- Data cleaning using SQL
+
+ Cleaning a dataset on housing using TSQL in Microsoft SQL Server Management Studio
